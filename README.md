@@ -110,10 +110,14 @@ AWS Console → DynamoDB → Explore items → `CareerApplications`
 
 | | |
 |---|---|
-| **EC2 setup (Node.js/Nginx install via MobaXterm)** | ![EC2 setup](screenshots/01-ec2-setup.png) |
-| **Career Portal application form (live)** | ![Career Portal form](screenshots/02-career-portal-form.png) |
-| **DynamoDB — CareerApplications table items** | ![DynamoDB items](screenshots/03-dynamodb-items.png) |
-| **DynamoDB — item detail view** | ![DynamoDB item detail](screenshots/04-dynamodb-item-detail.png) |
+| **EC2 setup (Node.js/Nginx install via MobaXterm)** | ![EC2 setup](screenshots/01-<img width="1366" height="768" alt="setup" src="https://github.com/user-attachments/assets/349ad906-8d1f-42b9-b2a8-60f41fb09fdd" />
+) |
+| **Career Portal application form (live)** | ![Career Portal form](screenshots/02-<img width="1366" height="768" alt="portal-form" src="https://github.com/user-attachments/assets/e4e16ca8-9816-456f-a2d8-b482162cf7ee" />
+) |
+| **DynamoDB — CareerApplications table items** | ![DynamoDB items](screenshots/03-<img width="1366" height="768" alt="dynamodb-items" src="https://github.com/user-attachments/assets/ea9a07f5-cafa-49ee-a23a-6eee29f9c3db" />
+) |
+| **DynamoDB — item detail view** | ![DynamoDB item detail](screenshots/04-<img width="1366" height="768" alt="dynamodb-item-detail" src="https://github.com/user-attachments/assets/85a31980-606d-4d43-8d4c-319c52b348ff" />
+) |
 
 ## Notes
 
